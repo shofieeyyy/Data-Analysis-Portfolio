@@ -9,6 +9,7 @@ Repository ini dibuat untuk menampilkan skill, membagikan proyek, dan mendokumen
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [Sales Performance Analysis - Superstore](#sales-performance-analysis---superstore)
+  - [Dashboard Penjualan - Superstore (Power BI)](#dashboard-penjualan---superstore-power-bi)
 - [Tools & Skills](#tools--skills)
 - [Contact](#contact)
 
@@ -51,8 +52,36 @@ Repository ini dibuat untuk menampilkan skill, membagikan proyek, dan mendokumen
 
 ---
 
+### Dashboard Penjualan - Superstore (Power BI)
+
+**Status:** Selesai
+
+**Type:** Individu
+
+**Tools:** Power BI
+
+**Goal:** Membangun dashboard interaktif untuk memvisualisasikan performa penjualan Superstore, memudahkan monitoring KPI utama seperti total sales, profit, dan tren penjualan berdasarkan kategori, wilayah, dan segmen pelanggan.
+
+**Description:** Proyek ini merupakan pengembangan dari analisis Sales Performance Superstore, kali ini diimplementasikan dalam bentuk dashboard Power BI yang interaktif. Dashboard memungkinkan eksplorasi data secara dinamis melalui filter dan visualisasi yang saling terhubung, sehingga insight bisnis dapat diakses dengan lebih cepat dan intuitif dibandingkan laporan statis.
+
+**Dashboard Overview:**
+- **KPI Cards:** Total Sales (2.30M), Total Profit (286.24K), Total Quantity (38K)
+- **Slicers:** Region, Segment, Category
+- **Sales by Category:** Bar chart perbandingan penjualan antar kategori (Technology, Furniture, Office Supplies)
+- **Profit by Category:** Bar chart perbandingan profit antar kategori
+- **Sales by Region:** Bar chart penjualan berdasarkan wilayah (West, East, Central, South)
+- **Sales by Segment:** Donut chart proporsi penjualan berdasarkan segmen (Consumer, Corporate, Home Office)
+- **Sum of Sales by State:** Peta interaktif sebaran penjualan di seluruh negara bagian Amerika Serikat
+
+**File:** [`Dashboard_Superstore.pbix`](./Dashboard_Superstore.pbix)
+
+**Skills:** Data modeling, DAX, interactive visualization, dashboard design, business reporting.
+
+---
+
 ## Tools & Skills
 - **Microsoft Excel:** Data Cleaning, Pivot Table, Pivot Chart, Interactive Dashboard, Slicer
+- **Power BI:** Data Modeling, DAX, Interactive Dashboard
 - **Analytical Skills:** Exploratory Data Analysis (EDA), KPI reporting, business insight generation, data-driven recommendation
 
 ## Contact
