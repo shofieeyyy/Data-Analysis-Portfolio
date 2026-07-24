@@ -54,9 +54,7 @@ Repository ini dibuat untuk menampilkan skill, membagikan proyek, dan mendokumen
 
 ### Dashboard Penjualan - Superstore (Power BI)
 
-**Status:** Selesai
-
-**Type:** Individu
+**Role:** Data Analyst (Portfolio Project)
 
 **Tools:** Power BI
 
