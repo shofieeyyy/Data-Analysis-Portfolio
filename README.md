@@ -100,9 +100,9 @@ Repository ini dibuat untuk menampilkan skill, membagikan proyek, dan mendokumen
 
 **Business Impact:** Insight dari analisis ini dapat digunakan untuk memahami preferensi konten audiens Netflix, mengevaluasi strategi produksi berdasarkan negara dan genre, serta memberikan gambaran arah tren durasi konten yang relevan dengan kebiasaan menonton digital saat ini.
 
-**Repository:** [`netflix-data-analysis`](.https://github.com/shofieeyyy/netflix-data-analysis.git)
+**Repository:** [netflix-data-analysis](https://github.com/shofieeyyy/netflix-data-analysis)
 
-**File:** [`netflix_data_analysis.ipynb`](.https://github.com/shofieeyyy/netflix-data-analysis/blob/main/netflix_data_analysis.ipynb)
+**File:** [netflix_data_analysis.ipynb](https://github.com/shofieeyyy/netflix-data-analysis/blob/main/netflix_data_analysis.ipynb)
 
 ---
 
