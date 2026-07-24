@@ -1,7 +1,7 @@
 # Shofiyatul Fajriyah - Data Analyst Portfolio
 
 ## About
-Hi, saya Shofiyatul Fajriyah! Saya seorang Data Analyst dengan minat besar dalam mengolah data mentah menjadi insight bisnis yang dapat ditindaklanjuti. Saya senang menggunakan tools seperti Microsoft Excel untuk melakukan data cleaning, exploratory data analysis (EDA), pivot table, hingga membangun interactive dashboard untuk mendukung pengambilan keputusan berbasis data (data-driven decision making).
+Hi, saya Shofiyatul Fajriyah! Saya seorang Data Analyst dengan minat besar dalam mengolah data mentah menjadi insight bisnis yang dapat ditindaklanjuti. Saya senang menggunakan tools seperti Microsoft Excel untuk melakukan data cleaning, exploratory data analysis (EDA), pivot table, hingga membangun interactive dashboard, serta Python untuk analisis data yang lebih mendalam dan fleksibel guna mendukung pengambilan keputusan berbasis data (data-driven decision making).
 
 Repository ini dibuat untuk menampilkan skill, membagikan proyek, dan mendokumentasikan progres saya di bidang Data Analytics / Data Science.
 
@@ -10,6 +10,7 @@ Repository ini dibuat untuk menampilkan skill, membagikan proyek, dan mendokumen
 - [Portfolio Projects](#portfolio-projects)
   - [Sales Performance Analysis - Superstore](#sales-performance-analysis---superstore)
   - [Dashboard Penjualan - Superstore (Power BI)](#dashboard-penjualan---superstore-power-bi)
+  - [Analisis Data Netflix (Python)](#analisis-data-netflix-python)
 - [Tools & Skills](#tools--skills)
 - [Contact](#contact)
 
@@ -77,9 +78,38 @@ Repository ini dibuat untuk menampilkan skill, membagikan proyek, dan mendokumen
 
 ---
 
+### Analisis Data Netflix (Python)
+
+**Role:** Data Analyst (Portfolio Project)
+
+**Tools:** Python (Pandas, Matplotlib, Seaborn), Google Colab
+
+**Goal:** Menggali insight dari katalog konten Netflix, meliputi komposisi tipe konten, tren pertumbuhan konten, distribusi negara produksi, rating, genre, dan durasi film, sebagai dasar rekomendasi strategi konten.
+
+**Description:** Analisis ini menggunakan dataset Netflix Movies and TV Shows yang berisi 8.807 judul dengan berbagai atribut seperti tipe, sutradara, pemeran, negara, tanggal ditambahkan, rating, durasi, dan genre. Proses analisis meliputi Data Cleaning (penanganan missing value pada kolom director/cast/country, konversi tipe data tanggal, serta pemisahan kolom durasi untuk Movie dan TV Show), Exploratory Data Analysis (EDA), hingga visualisasi data menggunakan Matplotlib dan Seaborn.
+
+**Skills:** Data cleaning dengan Python, exploratory data analysis, data visualization, business insight generation.
+
+**Key Findings:**
+- Movie mendominasi katalog Netflix dibandingkan TV Show.
+- Jumlah konten yang ditambahkan meningkat pesat menjelang periode 2019–2020.
+- Amerika Serikat merupakan kontributor konten terbesar, diikuti oleh India dan Inggris.
+- **TV-MA** adalah rating paling umum, menunjukkan Netflix banyak menyasar audiens dewasa.
+- Drama Internasional dan Komedi menjadi genre yang paling sering muncul.
+- Rata-rata durasi film menunjukkan tren **menurun** sejak tahun 2000-an, dari sekitar 120 menit menjadi sekitar 95 menit pada 2021, mengindikasikan pergeseran preferensi ke format film yang lebih ringkas.
+
+**Business Impact:** Insight dari analisis ini dapat digunakan untuk memahami preferensi konten audiens Netflix, mengevaluasi strategi produksi berdasarkan negara dan genre, serta memberikan gambaran arah tren durasi konten yang relevan dengan kebiasaan menonton digital saat ini.
+
+**Repository:** [`netflix-data-analysis`](./netflix-data-analysis)
+
+**File:** [`netflix_data_analysis.ipynb`](./netflix-data-analysis/netflix_data_analysis.ipynb)
+
+---
+
 ## Tools & Skills
 - **Microsoft Excel:** Data Cleaning, Pivot Table, Pivot Chart, Interactive Dashboard, Slicer
 - **Power BI:** Data Modeling, DAX, Interactive Dashboard
+- **Python:** Pandas, Matplotlib, Seaborn, Google Colab
 - **Analytical Skills:** Exploratory Data Analysis (EDA), KPI reporting, business insight generation, data-driven recommendation
 
 ## Contact
